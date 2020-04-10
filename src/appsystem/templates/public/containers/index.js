@@ -1,0 +1,6 @@
+// export * from './header'
+// export * from './MainNav'
+// export * from './Main'
+// export * from './Aside'
+// export * from './FooterNav'
+export * from './Footer'
